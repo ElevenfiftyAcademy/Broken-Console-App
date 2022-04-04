@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace Pokemon_Repository;
 
 private class PokemonRepository
